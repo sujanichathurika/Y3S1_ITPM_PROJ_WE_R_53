@@ -82,7 +82,7 @@ public class Add_Locations {
 		initialize();
 	}
 	
-	
+	/* Retrieve  data to check box */
 public void fillComboBox4() {
 		
 		try {
