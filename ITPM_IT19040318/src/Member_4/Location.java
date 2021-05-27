@@ -85,7 +85,7 @@ public class Location {
 			String Capacity= textField_2.getText();
 			
 			
-			
+			//insert data into db
 			 try {
 				 Connection con = DBConnect.connect();
 
